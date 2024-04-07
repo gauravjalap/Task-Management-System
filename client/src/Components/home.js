@@ -21,9 +21,9 @@ const Home = () => {
           Made With ❤️ By &nbsp;
           <a
             className="linkedinlink"
-            href="https://www.linkedin.com/in/priyanshudevsingh/"
+            href="https://www.linkedin.com/in/heyiamgaurav/"
           >
-            Priyanshu Singh
+            Gaurav Kumar
           </a>
         </p>
 
