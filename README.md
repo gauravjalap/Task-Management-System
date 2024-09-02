@@ -4,6 +4,7 @@
 
 - Get your MongoDB Connection String, keep it handy.
   Now go to `server` directory and make a `config.env` file and put
+  <br>
   `DATABASE="your_connection_string"`
   <br>
   `SECRET_KEY="your_secret_key_for_jwt"`
