@@ -738,6 +738,8 @@ select[name="status"] option {
 .redirectbut {
   display: block;
   margin: 0 auto;
+  margin-top: 8px;
+  font-size: 16px;
   padding: 5px 10px 5px 10px;
   font-weight: 1000;
   border-radius: 20px 20px 20px 20px;
@@ -748,6 +750,7 @@ select[name="status"] option {
 @media (max-width: 768px) {
   .catmeme {
     padding: 0 0 5px 0;
+    width: 100%;
     box-shadow: 0 3px 100px rgba(242, 108, 34, 1);
     border-radius: 15px;
   }
